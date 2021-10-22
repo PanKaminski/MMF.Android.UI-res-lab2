@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Student Info</string>
+    <string name="student_name">Kaminski Fiodar Siarheiavich</string>
+    <string name="specialization">Math and IT</string>
+    <string name="group">9</string>
+    <string name="landscape">Landscape view</string>
+    <string name="portrait">Portrait view</string>
+</resources>

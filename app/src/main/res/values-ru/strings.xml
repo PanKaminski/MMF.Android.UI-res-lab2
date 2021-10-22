@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Информация о студенте</string>
+    <string name="student_name">Каминский Фёдор Сергеевич</string>
+    <string name="specialization">Математика и ИТ</string>
+    <string name="group">9</string>
+    <string name="landscape">Ландшафтный вид</string>
+    <string name="portrait">Портретный вид</string>
+</resources>

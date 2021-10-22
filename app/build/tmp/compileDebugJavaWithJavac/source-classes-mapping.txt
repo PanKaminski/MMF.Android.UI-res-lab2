@@ -1,0 +1,4 @@
+bsu/mmf/kaminski/student_info/BuildConfig.java
+ bsu.mmf.kaminski.student_info.BuildConfig
+bsu/mmf/kaminski/student_info/MainActivity.java
+ bsu.mmf.kaminski.student_info.MainActivity
